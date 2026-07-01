@@ -1,0 +1,3 @@
+
+docker stop matlabContainer1 matlabContainer2 matlabContainer3 matlabContainer4 matlabContainer5 \
+	matlabContainer6 matlabContainer7 matlabContainer8 matlabContainer9 matlabContainer10
